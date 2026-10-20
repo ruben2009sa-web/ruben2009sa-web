@@ -1,57 +1,62 @@
-👾 ¡Buenas! Soy Rubén
-💻 Un chaval de 17 años al que le mola crear cosas guapas
-!Edad !Modo !Estado
+<div align="center">
 
-🧑‍💻 Sobre mí
-¡Ey! Soy Rubén, tengo 17 años y me encanta la tecnología, experimentar con ideas y crear proyectos interesantes.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:7C3AED,100:00E5FF&height=220&section=header&text=RUBEN.exe&fontSize=75&fontColor=FFFFFF&animation=fadeIn" width="100%">
 
-Me gusta aprender por mi cuenta, probar herramientas nuevas y descubrir todo lo que se puede hacer con código.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=HOLA%2C+SOY+RUB%C3%89N;17+A%C3%91OS+%7C+CREATIVIDAD+SIN+L%C3%8DMITES;HACIENDO+COSAS+GUAPAS+%F0%9F%94%A5" alt="Animación de texto">
 
-⚡ Siempre buscando algo nuevo que crear.
-🧪 Experimentando con diferentes tecnologías.
-🧠 Aprendiendo de mis errores.
-🛠️ Creando proyectos por curiosidad y diversión.
-🚀 Con muchas ideas y ganas de llevarlas a cabo.
-💜 Mi filosofía: aprender, experimentar y no dejar de crear.
-⚙️ Mi sistema
-🖥️ Nombre: Rubén
-👾 Usuario: @ruben2009sa-web
-🎂 Edad: 17 años
-🌌 Estilo: Cyberpunk / Neón
-🧠 Mentalidad: Aprender constantemente
-🚀 Objetivo: Crear cosas cada vez más interesantes
-🧰 Mi caja de herramientas
-Estas son algunas de las herramientas que utilizo actualmente.
+<br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" alt="GitHub, Git y VS Code">
-</p>
+<img src="https://img.shields.io/badge/EDAD-17-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/MODO-CREATIVO-00E5FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/ESTADO-APRENDIENDO-39FF14?style=for-the-badge">
 
-Mi colección de herramientas irá creciendo a medida que aprenda.
+</div>
 
-🚀 Mis proyectos
-Me gusta transformar ideas en proyectos reales. Aquí iré publicando experimentos, herramientas y creaciones personales.
+<div align="center">
 
-![Ver mis proyectos](https://img.shields.io/badge/VER_MIS_PROYECTOS-8A2BE2?style=for-the-badge&logo=github)
+👾 SOBRE MÍ
+Un chaval de 17 años con ganas de crear cosas increíbles.
 
-📊 Mis estadísticas
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruben2009sa-web&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=FFFFFF&icon_color=8A2BE2" width="48%" alt="Estadísticas de GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben2009sa-web&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=FFFFFF" width="48%" alt="Lenguajes más utilizados">
-</p>
+Me gusta la tecnología, experimentar y convertir ideas en proyectos reales.
 
-🐍 Mi actividad
-<p align="center">
+</div>
+
+<div align="center">
+
+🧰 MI ARSENAL
+<img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" alt="Herramientas de desarrollo">
+
+</div>
+
+<div align="center">
+
+📊 MI UNIVERSO EN GITHUB
+<img src="https://github-readme-stats.vercel.app/api?username=ruben2009sa-web&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=FFFFFF&icon_color=8A2BE2" width="90%" alt="Estadísticas de GitHub">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben2009sa-web&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=FFFFFF" alt="Lenguajes más utilizados">
+
+</div>
+
+<div align="center">
+
+🐍 MI ACTIVIDAD
 <img src="https://raw.githubusercontent.com/ruben2009sa-web/ruben2009sa-web/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Serpiente de contribuciones">
-</p>
 
-🌌 Esto no ha hecho más que empezar
-💜 Muchas ideas, ganas de aprender y proyectos por crear.
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6D28D9,100:090014&height=120&section=footer" width="100%" alt="Banner final">
-</p>
+<div align="center">
 
-<p align="center">
-<sub>Hecho con curiosidad por Rubén · 2026</sub>
-</p>
+🚀 ESTO NO HA HECHO MÁS QUE EMPEZAR
+<a href="https://github.com/ruben2009sa-web?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR_MIS_PROYECTOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis proyectos">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:090014&height=120&section=footer" width="100%" alt="Banner final">
+
+💜 Hecho por Rubén · 2026
+
+</div>
